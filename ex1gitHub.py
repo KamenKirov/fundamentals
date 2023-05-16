@@ -1,4 +1,4 @@
-def isADog(x):
+def isACat(x):
     if x == "dog" or x == "Dog":
         return True
     else:
